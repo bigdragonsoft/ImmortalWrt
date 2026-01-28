@@ -70,7 +70,6 @@ PACKAGES="$PACKAGES luci-app-adguardhome"
 PACKAGES="$PACKAGES luci-app-samba4"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-app-turboacc"
-PACKAGES="$PACKAGES luci-app-wireguard"
 PACKAGES="$PACKAGES luci-app-mosdns"
 PACKAGES="$PACKAGES luci-app-ddns"
 # 判断是否需要编译 Docker 插件
